@@ -14,6 +14,3 @@ Dataset yang digunakan adalah sebuah database yang berisi 200 baris dan 4 kolom,
 ## Tech Stack
 - Jupyter
 
-## Authors
-
-- [@FIKRI AFRIZAL](https://www.kaggle.com/code/fikriafrizal/regresi-advertising-data)
